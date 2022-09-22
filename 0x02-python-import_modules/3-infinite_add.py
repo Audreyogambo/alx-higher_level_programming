@@ -7,3 +7,4 @@ if __name__ == "__main__":
         if arg != sys.argv[0]:
             sum += int(arg)
     print("{}".format(sum))
+    
